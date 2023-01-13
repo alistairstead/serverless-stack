@@ -1,5 +1,11 @@
 # @serverless-stack/cli2
 
+## 2.0.0-rc.31
+
+### Patch Changes
+
+- [#2329](https://github.com/serverless-stack/sst/pull/2329) [`93dc3ec3f`](https://github.com/serverless-stack/sst/commit/93dc3ec3f201aebd2c69d2c602ded8854e82a32a) Thanks [@alistairstead](https://github.com/alistairstead)! - Update bind to inherit the full env of the parent process
+
 ## 2.0.0-rc.30
 
 ### Major Changes
